@@ -1,0 +1,26 @@
+[
+  {
+    "title": "",
+    "imageSrc": "projects/html.jpg",
+    "description": "This certificate demonstrates that I have completed the HTML course on Solo learn.",
+    "skills": [],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "",
+    "imageSrc": "projects/py_cert.jpg",
+    "description": "This certificate demonstrates that I have completed the Python course on Solo learn.",
+    "skills": [],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "",
+    "imageSrc": "projects/foodhub.jpg",
+    "description": "This project is an open source food app that allows users to search for recipes. It uses the TheMealDB API to fetch recipes and display them to the user. I used React, React Router, and Axios.",
+    "skills": [],
+    "demo": "https://kerv16.github.io/",
+    "source": "https://github.com/kerv16/kerv16.github.io"
+  }
+]
